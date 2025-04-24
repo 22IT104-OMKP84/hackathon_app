@@ -189,5 +189,14 @@ Certificate generator
 
 Localization for multi-language support
 
+Output:
+
+![image](https://github.com/user-attachments/assets/c45cdcc1-de2c-47ed-a014-7d6038fdfd4d)
+
+![image](https://github.com/user-attachments/assets/cbad5653-8f0e-4f86-ac49-740eac27c2ca)
+
+![image](https://github.com/user-attachments/assets/d0d83b37-54bb-4998-bc5d-839f201e27d7)
+
+
 Conclusion
 The Hackathon Management App simplifies the experience of organizing and participating in hackathons. With offline readiness, Firebase integration, and a modular Flutter architecture, it offers a robust and scalable solution for both small and large-scale events.
